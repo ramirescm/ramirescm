@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 
-<table>
+<table border="0" cellspacing="0">
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&layout=compact" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=ramirescm&line_heigth=1" /></td>
