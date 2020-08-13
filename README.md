@@ -11,8 +11,8 @@
 
 
 
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&hide=html&line_heigth=10&layout=compact&theme=cobalt" />
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ramirescm&theme=cobalt" />
+   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm" />
+   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ramirescm" />
 
 <!--
 **ramirescm/ramirescm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
