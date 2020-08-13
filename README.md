@@ -13,10 +13,10 @@
 
 <div style="display: block;">
 <div style="display: inline-block; padding: 0 10px 0 0; heigth: 300px">
-   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&hide=html&line_heigth=10&layout=compact&theme=cobalt" />
+   <img height="200" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&hide=html&line_heigth=10&layout=compact&theme=cobalt" />
 </div>
 <div style="display: inline-block;padding: 0 10px 0 0; heigth: 300px">
-    <img height="200"  width="400" src="https://github-readme-stats.vercel.app/api?username=ramirescm&theme=cobalt" />
+    <img height="200"  width="248" src="https://github-readme-stats.vercel.app/api?username=ramirescm&theme=cobalt" />
     </tr>
 </div>
 </div>
