@@ -10,9 +10,12 @@
 - ⚡ Fun fact: ...
 
 
-
-<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm" />
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=ramirescm" />
+<table>
+   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ramirescm" /></td>
+   </tr>
+</table>
 
 <!--
 **ramirescm/ramirescm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
