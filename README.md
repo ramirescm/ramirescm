@@ -10,12 +10,10 @@
 - ⚡ Fun fact: ...
 
 
-<table border="0" cellspacing="0">
-   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&layout=compact" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=ramirescm&line_heigth=1" /></td>
-   </tr>
-</table>
+<div>
+      <div style="float: left; margin: 0 10px 0 0"><img width="400px" heith="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&layout=compact" /></div>
+      <div style="float: left"><img heith="100%" src="https://github-readme-stats.vercel.app/api?username=ramirescm&line_heigth=1" /></div>
+   </div>
 
 <!--
 **ramirescm/ramirescm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
