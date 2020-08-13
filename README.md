@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 
-<div style="display: flex; flex-direction: row;">
+ <div style="display: flex; flex-direction: row; witdth: 90%">
       <div style="float: left; margin: 0 10px 0 0"><img width="400px" heith="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&layout=compact" /></div>
       <div style="float: left"><img heith="100%" src="https://github-readme-stats.vercel.app/api?username=ramirescm&line_heigth=1" /></div>
    </div>
