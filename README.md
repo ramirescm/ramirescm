@@ -9,6 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ramirescm)](https://github.com/ramirescm)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirescm/)](https://www.linkedin.com/in/ramirescm/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ramirescm)](https://www.twitter.com/ramirescm/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://twitter.com/ramirescm)](https://www.facebook.com/ramirescm/)
+
 
  <div style="display: flex; flex-direction: row; witdth: 90%">
       <div style="float: left; margin: 0 10px 0 0"><img width="400px" heith="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirescm&layout=compact" /></div>
