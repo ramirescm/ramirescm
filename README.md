@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning dotnet and vue
+- 🌱 I’m currently learning dotnet and vue, angular, cqrs, event sourcing, security api
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ramirescm)](https://github.com/ramirescm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramirescm/)](https://www.linkedin.com/in/ramirescm/)
